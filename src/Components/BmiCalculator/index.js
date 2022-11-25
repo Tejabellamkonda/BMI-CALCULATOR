@@ -85,7 +85,7 @@ const BmiCalculator = () => {
             <Measurement>Weight</Measurement>
             <MeasurementValue>
               {weight}
-              <Unit>kgs</Unit>
+              <Unit>Kgs</Unit>
             </MeasurementValue>
             <ButtonsContainer>
               <Button onClick={onDecrementWeight}>-</Button>
