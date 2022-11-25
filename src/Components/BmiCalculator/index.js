@@ -81,7 +81,7 @@ const BmiCalculator = () => {
               <Button onClick={onIncrementHeight}>+</Button>
             </ButtonsContainer>
           </MeasurementCard>
-          <MeasurementCard>
+          <MeasurementCard>4
             <Measurement>Weight</Measurement>
             <MeasurementValue>
               {weight}
